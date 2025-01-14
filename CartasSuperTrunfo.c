@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 int main(){
-    
-    int codigo da cidade;
-    int nome;
+
+    int codigo_da_cidade;
+    char nome[50];
     double populacao;
     double area;
     double pib;
-    float numero de pontos turisticos;
+    int numero_de_pontos_turisticos;
 
     printf("Cadastro de cartas\n");
       
