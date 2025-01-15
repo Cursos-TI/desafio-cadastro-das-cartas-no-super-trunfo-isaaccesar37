@@ -11,5 +11,10 @@ typedef struct {
     double pib;
     int numero_de_pontos_turisticos;
     int Cidade[50];
+    //sintaxe scanf
+    //scanf("formato1" "formato2", $variavel1, variavel2);
+    printf("Digite o nome da cidade: ");
+    scanf("%d", &Cidade);
+
 
 }
